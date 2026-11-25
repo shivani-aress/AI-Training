@@ -1,0 +1,11 @@
+﻿[
+  {"question": "how do i work from home", "expected_answer": "Use the work-from-home policy: requests require manager approval and should be submitted through the HR portal at least one working day in advance. Eligibility and role requirements apply.", "answerable": true},
+  {"question": "How many annual leave days do full-time employees receive each year?", "expected_answer": "18 working days per calendar year, credited monthly at 1.5 days per completed month.", "answerable": true},
+  {"question": "How many unused annual leave days may be carried forward?", "expected_answer": "Up to 5 unused annual leave days may be carried forward.", "answerable": true},
+  {"question": "How far in advance should I submit a work-from-home request, and where?", "expected_answer": "Submit the request in the HR portal at least one working day in advance.", "answerable": true},
+  {"question": "What should I do if my company laptop is lost?", "expected_answer": "Report it immediately through the security incident channel and notify the manager.", "answerable": true},
+  {"question": "How do I request access to a business application?", "expected_answer": "Use the service portal and provide the business reason, application name, and required access level; manager approval is required.", "answerable": true},
+  {"question": "What approval is required before temporarily working from another country?", "expected_answer": "Written approval from the manager and HR is required before relocating temporarily.", "answerable": true},
+  {"question": "Does the company reimburse gym memberships?", "expected_answer": "The supplied documents do not provide a gym membership reimbursement policy.", "answerable": false},
+  {"question": "What is the company's parental leave entitlement?", "expected_answer": "The supplied documents do not specify a parental leave entitlement.", "answerable": false}
+]

@@ -1,0 +1,15 @@
+﻿# PDF text extraction
+pymupdf
+
+# Text chunking
+langchain-text-splitters
+
+# Embeddings
+sentence-transformers
+
+# Vector database
+chromadb
+
+# Groq API and environment configuration
+groq
+python-dotenv

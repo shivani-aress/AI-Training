@@ -1,14 +1,14 @@
 ticket_id,message,summary,category,priority
-TKT-1001,"I was charged twice for my monthly subscription, but I only placed one order.",Customer was double-charged for a monthly subscription despite only placing one order.,Billing Issue,High
-TKT-1002,I cannot log in even after resetting my password. The reset link says it has expired.,Customer cannot log in because the password reset link has expired.,Login Issue,High
-TKT-1003,The checkout page shows a blank screen whenever I click Pay.,Checkout page shows a blank screen when clicking Pay.,Checkout Issue,High
-TKT-1004,I returned my headphones last week and would like to know when my refund will arrive.,Customer wants to know when the refund for returned headphones will arrive.,Refund Inquiry,Medium
-TKT-1005,Please update the email address on my account; I no longer have access to the old one.,Customer requests email address update due to loss of access to old email.,Account Update,Medium
-TKT-1006,"My package was marked delivered, but nothing is at my door or mailbox.",Package marked delivered but not received at door or mailbox.,Missing Delivery,High
-TKT-1007,The mobile app closes every time I try to upload a profile photo.,App crashes when uploading a profile photo.,App Crash,High
-TKT-1008,I need to change the shipping address for my order before it is sent.,Customer wants to change the shipping address before the order ships.,Shipping / Order Management,Medium
-TKT-1009,"My discount code is not applying, even though it is still valid and my cart meets the minimum.",Discount code not applying despite being valid and meeting cart minimum,Discount Issue,Medium
-TKT-1010,I was billed after cancelling my plan. Please check the latest invoice.,Customer was billed after canceling their plan and requests invoice verification.,Billing Issue,High
-TKT-1011,"Two-factor authentication codes are not arriving on my phone, so I cannot access my account.","2FA codes are not arriving, preventing account access.",Two-Factor Authentication,High
-TKT-1012,The replacement item arrived damaged. Can you arrange another replacement?,Replacement item arrived damaged and customer requests a new replacement.,Replacement Issue,High
-TKT-1013,My account page shows an error after I change my phone number.,Error on account page after updating phone number,Account Update Issue,Medium
+TKT-1001,"I was charged twice for my monthly subscription, but I only placed one order.",Customer was charged twice for a monthly subscription despite placing only one order.,Billing Issue,High
+TKT-1002,I cannot log in even after resetting my password. The reset link says it has expired.,Customer cannot log in; password reset link expired,Login Issue,High
+TKT-1003,The checkout page shows a blank screen whenever I click Pay.,Checkout page displays a blank screen when the Pay button is clicked.,Payment Issue,High
+TKT-1004,I returned my headphones last week and would like to know when my refund will arrive.,Customer asks about refund status for returned headphones.,Refund,Medium
+TKT-1005,Please update the email address on my account; I no longer have access to the old one.,Customer requests email address update because they cannot access the old email.,Account Update,Medium
+TKT-1006,"My package was marked delivered, but nothing is at my door or mailbox.",Package marked delivered but not received,Delivery Issue,High
+TKT-1007,The mobile app closes every time I try to upload a profile photo.,Mobile app crashes when uploading a profile photo.,App Crash,High
+TKT-1008,I need to change the shipping address for my order before it is sent.,Customer wants to change the shipping address before the order ships.,Order Management,Medium
+TKT-1009,"My discount code is not applying, even though it is still valid and my cart meets the minimum.",Discount code not applying despite being valid and meeting cart requirements.,Discount/Coupon Issue,Medium
+TKT-1010,I was billed after cancelling my plan. Please check the latest invoice.,Customer was billed after canceling their plan and requests invoice review.,Billing Issue,High
+TKT-1011,"Two-factor authentication codes are not arriving on my phone, so I cannot access my account.","2FA codes aren't arriving, preventing account access.",Two-Factor Authentication,High
+TKT-1012,The replacement item arrived damaged. Can you arrange another replacement?,Replacement item arrived damaged; customer requests a new replacement.,Product Replacement,High
+TKT-1013,My account page shows an error after I change my phone number.,Error shown on account page after changing phone number,Account Management,Medium

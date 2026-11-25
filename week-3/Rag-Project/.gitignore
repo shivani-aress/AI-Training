@@ -1,0 +1,13 @@
+﻿# Secrets
+.env
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local vector database and generated output
+chroma_db/
+output/*
+!output/.gitkeep
